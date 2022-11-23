@@ -4,12 +4,12 @@
         "source": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-main-31:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.crowdbandung.app-merged_res-29:/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "com.example.crowdbandung.app-main-31:/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-merged_res-29:\\layout_activity_cctv_page.xml.flat",
+        "source": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-main-31:\\layout\\activity_cctv_page.xml"
     },
     {
-        "merged": "com.example.crowdbandung.app-merged_res-29:/mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "com.example.crowdbandung.app-main-31:/mipmap-hdpi/ic_launcher_round.png"
+        "merged": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-merged_res-29:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-main-31:\\mipmap-hdpi\\ic_launcher_foreground.png"
     },
     {
         "merged": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-merged_res-29:\\xml_backup_rules.xml.flat",
@@ -20,8 +20,12 @@
         "source": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-main-31:\\mipmap-mdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "com.example.crowdbandung.app-merged_res-29:/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "com.example.crowdbandung.app-main-31:/mipmap-mdpi/ic_launcher.png"
+        "merged": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-merged_res-29:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-main-31:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-merged_res-29:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-main-31:\\mipmap-mdpi\\ic_launcher.png"
     },
     {
         "merged": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-merged_res-29:\\mipmap-mdpi_ic_launcher_round.png.flat",
@@ -36,8 +40,8 @@
         "source": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-main-31:\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-merged_res-29:\\drawable-anydpi-v26_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-main-31:\\drawable-anydpi-v26\\ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-merged_res-29:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-main-31:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
         "merged": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-merged_res-29:\\drawable-v24_ic_launcher_foreground.xml.flat",
@@ -48,20 +52,12 @@
         "source": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-main-31:\\mipmap-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "com.example.crowdbandung.app-merged_res-29:/mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "com.example.crowdbandung.app-main-31:/mipmap-mdpi/ic_launcher_round.png"
+        "merged": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-main-31:\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "com.example.crowdbandung.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "com.example.crowdbandung.app-main-31:/mipmap-xxxhdpi/ic_launcher.png"
-    },
-    {
-        "merged": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-merged_res-29:\\drawable-anydpi-v26_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-main-31:\\drawable-anydpi-v26\\ic_launcher_background.xml"
-    },
-    {
-        "merged": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-merged_res-29:\\layout_activity_home_screen.xml.flat",
-        "source": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-main-31:\\layout\\activity_home_screen.xml"
+        "merged": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-merged_res-29:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-main-31:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
         "merged": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-merged_res-29:\\mipmap-mdpi_ic_launcher_round.webp.flat",
@@ -76,6 +72,10 @@
         "source": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-main-31:\\drawable\\header.png"
     },
     {
+        "merged": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-merged_res-29:\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-main-31:\\layout\\activity_splash_screen.xml"
+    },
+    {
         "merged": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-merged_res-29:\\drawable_frame_1.png.flat",
         "source": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-main-31:\\drawable\\frame_1.png"
     },
@@ -84,96 +84,8 @@
         "source": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-main-31:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-merged_res-29:\\layout_activity_loading_screen.xml.flat",
-        "source": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-main-31:\\layout\\activity_loading_screen.xml"
-    },
-    {
         "merged": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-main-31:\\mipmap-xxxhdpi\\ic_launcher.webp"
-    },
-    {
-        "merged": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-merged_res-29:\\drawable_crowd_bandung.png.flat",
-        "source": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-main-31:\\drawable\\crowd_bandung.png"
-    },
-    {
-        "merged": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-main-31:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
-    },
-    {
-        "merged": "com.example.crowdbandung.app-merged_res-29:/mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "com.example.crowdbandung.app-main-31:/mipmap-xhdpi/ic_launcher_round.png"
-    },
-    {
-        "merged": "com.example.crowdbandung.app-merged_res-29:/mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "com.example.crowdbandung.app-main-31:/mipmap-xxhdpi/ic_launcher_round.png"
-    },
-    {
-        "merged": "com.example.crowdbandung.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "com.example.crowdbandung.app-main-31:/mipmap-xxxhdpi/ic_launcher_round.png"
-    },
-    {
-        "merged": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-merged_res-29:\\layout_activity_cctvpage.xml.flat",
-        "source": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-main-31:\\layout\\activity_cctvpage.xml"
-    },
-    {
-        "merged": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-merged_res-29:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-main-31:\\drawable\\ic_launcher_background.xml"
-    },
-    {
-        "merged": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-merged_res-29:\\drawable_cctv_header.png.flat",
-        "source": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-main-31:\\drawable\\cctv_header.png"
-    },
-    {
-        "merged": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-main-31:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
-    },
-    {
-        "merged": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-merged_res-29:\\mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-main-31:\\mipmap-xhdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-merged_res-29:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-main-31:\\mipmap-xhdpi\\ic_launcher_round.webp"
-    },
-    {
-        "merged": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-main-31:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
-    },
-    {
-        "merged": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-main-31:\\mipmap-xxxhdpi\\ic_launcher_round.png"
-    },
-    {
-        "merged": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-merged_res-29:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-main-31:\\mipmap-hdpi\\ic_launcher_foreground.png"
-    },
-    {
-        "merged": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-merged_res-29:\\drawable_security_camera.png.flat",
-        "source": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-main-31:\\drawable\\security_camera.png"
-    },
-    {
-        "merged": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-merged_res-29:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-main-31:\\xml\\data_extraction_rules.xml"
-    },
-    {
-        "merged": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-merged_res-29:\\mipmap-mdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-main-31:\\mipmap-mdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-merged_res-29:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-main-31:\\mipmap-hdpi\\ic_launcher_round.webp"
-    },
-    {
-        "merged": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-main-31:\\mipmap-xxxhdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-merged_res-29:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-main-31:\\mipmap-xhdpi\\ic_launcher.webp"
-    },
-    {
-        "merged": "com.example.crowdbandung.app-merged_res-29:/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "com.example.crowdbandung.app-main-31:/mipmap-hdpi/ic_launcher.png"
     },
     {
         "merged": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-merged_res-29:\\mipmap-xhdpi_ic_launcher_round.png.flat",
@@ -188,8 +100,16 @@
         "source": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-main-31:\\mipmap-xhdpi\\ic_launcher_foreground.png"
     },
     {
+        "merged": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-main-31:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
         "merged": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-merged_res-29:\\mipmap-hdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-main-31:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-merged_res-29:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-main-31:\\drawable\\ic_launcher_background.xml"
     },
     {
         "merged": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
@@ -204,11 +124,31 @@
         "source": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-main-31:\\layout\\activity_main.xml"
     },
     {
-        "merged": "com.example.crowdbandung.app-merged_res-29:/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "com.example.crowdbandung.app-main-31:/mipmap-xhdpi/ic_launcher.png"
+        "merged": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-main-31:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-merged_res-29:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-main-31:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-merged_res-29:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-main-31:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
         "merged": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-merged_res-29:\\mipmap-hdpi_ic_launcher_round.png.flat",
         "source": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-main-31:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-main-31:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-merged_res-29:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-main-31:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-main-31:\\mipmap-xxxhdpi\\ic_launcher_round.png"
     }
 ]

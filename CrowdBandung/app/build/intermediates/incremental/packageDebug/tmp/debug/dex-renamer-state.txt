@@ -1,4 +1,4 @@
-#Wed Nov 16 20:48:49 ICT 2022
+#Thu Nov 24 00:12:15 ICT 2022
 base.2=D\:\\Kuliah\\Matkul\\Mobapps\\CrowdBandung\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\14\\classes.dex
 path.2=14/classes.dex
 base.1=D\:\\Kuliah\\Matkul\\Mobapps\\CrowdBandung\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex

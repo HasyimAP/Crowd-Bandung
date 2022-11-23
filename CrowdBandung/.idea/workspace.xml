@@ -2,17 +2,14 @@
 <project version="4">
   <component name="AndroidLayouts">
     <shared>
-      <config>
-        <device id="_device_class_phone" />
-        <option name="nonWearDeviceLastStateName" value="portrait" />
-      </config>
+      <config />
     </shared>
   </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0560753c-14b9-4b17-8dd7-5e12311f2087" name="Changes" comment="" />
+    <list default="true" id="dc24e36c-e77b-44be-9dc9-7015bd853c3b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,17 +21,10 @@
       <ProjectState />
     </projectState>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Kotlin Class" />
-      </list>
-    </option>
-  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2HXvVMbVn1DfCHZgDGcJ5nt5K5l" />
+  <component name="ProjectId" id="2HxIj7zsT0DlH62W4sg5MBHSfzj" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -46,19 +36,13 @@
     <property name="cidr.known.project.marker" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="android.template.1431929641">
-      <recent name="com.example.crowdbandung" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\res\drawable-anydpi-v26" />
-    </key>
-    <key name="android.template.451267225">
+    <key name="android.template.192901068">
       <recent name="com.example.crowdbandung" />
     </key>
   </component>
   <component name="RunManager">
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
-      <module name="Crowd_Bandung.app.main" />
+      <module name="CrowdBandung.app.main" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
       <option name="DEPLOY_AS_INSTANT" value="false" />
@@ -120,11 +104,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0560753c-14b9-4b17-8dd7-5e12311f2087" name="Changes" comment="" />
-      <created>1668444272708</created>
+      <changelist id="dc24e36c-e77b-44be-9dc9-7015bd853c3b" name="Changes" comment="" />
+      <created>1669220447117</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1668444272708</updated>
+      <updated>1669220447117</updated>
     </task>
     <servers />
   </component>
