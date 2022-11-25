@@ -16,6 +16,7 @@ id homeheader
 id imageButton
 id imageView
 id imageView3
+id textView
 layout activity_cctv_page
 layout activity_main
 layout activity_splash_screen
