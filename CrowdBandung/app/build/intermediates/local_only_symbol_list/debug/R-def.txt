@@ -12,11 +12,13 @@ drawable arrow_1
 drawable frame_1
 drawable header
 drawable logo
+id CctvList
+id backButton
 id homeheader
-id imageButton
 id imageView
 id imageView3
-id textView
+id root
+id videoView
 layout activity_cctv_page
 layout activity_main
 layout activity_splash_screen

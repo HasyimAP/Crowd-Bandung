@@ -17,18 +17,18 @@ class MainActivity : AppCompatActivity() {
         supportActionBar?.hide()
     }
 
-    private fun fetchVideoData(): Thread {
-        return Thread {
-            val url = URL("http://cariloka.com/atcscctvindon/cctvatcsindonlengkap/jabar.json")
-            val connection = url.openConnection() as HttpsURLConnection
-
-            if(connection.responseCode == 200) {
-                val inputSystem = connection.inputStream
-                println(inputSystem.toString())
-            }
-            else {
-                binding.textView.text = "Connection failed"
-            }
-        }
-    }
+//    private fun fetchVideoData(): Thread {
+//        return Thread {
+//            val url = URL("http://cariloka.com/atcscctvindon/cctvatcsindonlengkap/jabar.json")
+//            val connection = url.openConnection() as HttpsURLConnection
+//
+//            if(connection.responseCode == 200) {
+//                val inputSystem = connection.inputStream
+//                println(inputSystem.toString())
+//            }
+//            else {
+//                binding.textView.text = "Connection failed"
+//            }
+//        }
+//    }
 }

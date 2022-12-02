@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.crowdbandung.app-mergeDebugResources-27:/values-pt-rBR/values-pt-rBR.xml",
+            "outputFile": "com.example.crowdbandung.app-mergeDebugResources-30:/values-pt-rBR/values-pt-rBR.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Microsoft\\.gradle\\caches\\transforms-3\\6a19de105318aab1da00cfa3c60fb56e\\transformed\\core-1.8.0\\res\\values-pt-rBR\\values-pt-rBR.xml",

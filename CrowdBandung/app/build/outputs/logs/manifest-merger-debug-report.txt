@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:2:1-48:12
-INJECTED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:2:1-48:12
-INJECTED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:2:1-48:12
-INJECTED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:2:1-48:12
+ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:2:1-55:12
 MERGED from [androidx.databinding:viewbinding:7.3.0] C:\Users\Microsoft\.gradle\caches\transforms-3\c4cb892f171ca1d410550e46c7385279\transformed\viewbinding-7.3.0\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.material:material:1.7.0] C:\Users\Microsoft\.gradle\caches\transforms-3\11918c9aa544653f8c45c32ea9ac02b8\transformed\material-1.7.0\AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Microsoft\.gradle\caches\transforms-3\9827ec6617366e82ed5e7c7a909d86e6\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
@@ -18,8 +18,8 @@ MERGED from [androidx.loader:loader:1.0.0] C:\Users\Microsoft\.gradle\caches\tra
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\Microsoft\.gradle\caches\transforms-3\83a8f2ff4fefab06a91b8a5cb0437f5b\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\Microsoft\.gradle\caches\transforms-3\f1c05abca8b731045f6324e39a2dc706\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.core:core-ktx:1.8.0] C:\Users\Microsoft\.gradle\caches\transforms-3\9f2d8786483f16acab3469f1ecada2e8\transformed\core-ktx-1.8.0\AndroidManifest.xml:2:1-9:12
-MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\Microsoft\.gradle\caches\transforms-3\b15ec2f6b89054d43119a75e8de6207e\transformed\recyclerview-1.2.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Microsoft\.gradle\caches\transforms-3\ecb62397fcd2d0e31dd8cc20a358496e\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer:2.18.2] C:\Users\Microsoft\.gradle\caches\transforms-3\d47e8a4309026997b332dac8335a7bed\transformed\exoplayer-2.18.2\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.18.2] C:\Users\Microsoft\.gradle\caches\transforms-3\d2a89e4594f56312fd51dc9e0b5f9d60\transformed\exoplayer-ui-2.18.2\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Microsoft\.gradle\caches\transforms-3\0b622ae0009252fd9de3ea6d232488c7\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Microsoft\.gradle\caches\transforms-3\848773e611bbde5d3ec0ec3e63d01c98\transformed\emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
 MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Microsoft\.gradle\caches\transforms-3\89f334ed0aaa1263b47c6d75629cdccc\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
@@ -27,6 +27,13 @@ MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Micros
 MERGED from [androidx.transition:transition:1.2.0] C:\Users\Microsoft\.gradle\caches\transforms-3\d9ab7ff9bc4a114cf32a2090c5357a01\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Microsoft\.gradle\caches\transforms-3\3a69fdc313f531835a0943e457c4cc93\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Microsoft\.gradle\caches\transforms-3\912f437e477b893e1bc649d739324a83\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.18.2] C:\Users\Microsoft\.gradle\caches\transforms-3\abd8152d42406bd5383101007d27eb82\transformed\exoplayer-dash-2.18.2\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.18.2] C:\Users\Microsoft\.gradle\caches\transforms-3\4d534b825a5993ef4354ab5ef05472e9\transformed\exoplayer-hls-2.18.2\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-rtsp:2.18.2] C:\Users\Microsoft\.gradle\caches\transforms-3\5c7184c4d2beed82e8766c07791c9021\transformed\exoplayer-rtsp-2.18.2\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.18.2] C:\Users\Microsoft\.gradle\caches\transforms-3\96e2d134ca6f358f536a4661f2f1a110\transformed\exoplayer-smoothstreaming-2.18.2\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.2] C:\Users\Microsoft\.gradle\caches\transforms-3\6524ce82367a53b8e5f240fe815cd882\transformed\exoplayer-core-2.18.2\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\Microsoft\.gradle\caches\transforms-3\b15ec2f6b89054d43119a75e8de6207e\transformed\recyclerview-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.6.0] C:\Users\Microsoft\.gradle\caches\transforms-3\d836cf1b8b4d5403946ff60697c223bd\transformed\media-1.6.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Microsoft\.gradle\caches\transforms-3\595d6f5ec2a32b18a0a929af79e9c217\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.customview:customview:1.1.0] C:\Users\Microsoft\.gradle\caches\transforms-3\f99e13ac6b091b958c0a77e57b12da22\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.core:core:1.8.0] C:\Users\Microsoft\.gradle\caches\transforms-3\6a19de105318aab1da00cfa3c60fb56e\transformed\core-1.8.0\AndroidManifest.xml:17:1-26:12
@@ -34,6 +41,12 @@ MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Microsoft\.gra
 MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Microsoft\.gradle\caches\transforms-3\a4f0fb44e9b56370f8c2ed23c9d5d030\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:17:1-37:12
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\Microsoft\.gradle\caches\transforms-3\b1625850bd12ed5a169353107cc1dd79\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\Microsoft\.gradle\caches\transforms-3\02d9a1c992ba142a6f1c7f5d7ffca310\transformed\savedstate-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Microsoft\.gradle\caches\transforms-3\ecb62397fcd2d0e31dd8cc20a358496e\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.18.2] C:\Users\Microsoft\.gradle\caches\transforms-3\7f72c5a5970f10085297670ed076ad37\transformed\exoplayer-datasource-2.18.2\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.18.2] C:\Users\Microsoft\.gradle\caches\transforms-3\8a4ff3407b25a23fce13b8032f606c20\transformed\exoplayer-database-2.18.2\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.18.2] C:\Users\Microsoft\.gradle\caches\transforms-3\6e7c1018cb082cc0108976293b4e31de\transformed\exoplayer-extractor-2.18.2\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.18.2] C:\Users\Microsoft\.gradle\caches\transforms-3\ba7c5f9938d806361cda7c24c958920e\transformed\exoplayer-decoder-2.18.2\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.2] C:\Users\Microsoft\.gradle\caches\transforms-3\7dd84e68d3d9c8b29816c7e95c01c371\transformed\exoplayer-common-2.18.2\AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Microsoft\.gradle\caches\transforms-3\ced32f29a036624fcee3c102df5f076d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
 MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Microsoft\.gradle\caches\transforms-3\baef32cd3c953915a0114f73cc9cca3f\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
 MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Microsoft\.gradle\caches\transforms-3\0e5cedd280decaba83b935974adbb486\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
@@ -45,27 +58,39 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Microsoft\.gradl
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Microsoft\.gradle\caches\transforms-3\3ac119fa795bc1ef3ecdd8c6ea4af554\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\Microsoft\.gradle\caches\transforms-3\5b9f05308f02d2aab4c4e2d31764b8b7\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Microsoft\.gradle\caches\transforms-3\760b9af4b43b4d512130ddd1633ee153\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:2:1-48:12
-INJECTED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:2:1-48:12
-INJECTED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:2:1-55:12
 	package
 		INJECTED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml
-		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:2:1-48:12
+		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:2:1-55:12
 		INJECTED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml
-		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:2:1-48:12
+		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:2:1-55:12
 		INJECTED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml
 	xmlns:tools
 		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml
-		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:2:1-48:12
+		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:2:1-55:12
 		INJECTED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:5:5-83
+	android:name
+		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:6:5-95
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.2] C:\Users\Microsoft\.gradle\caches\transforms-3\6524ce82367a53b8e5f240fe815cd882\transformed\exoplayer-core-2.18.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.2] C:\Users\Microsoft\.gradle\caches\transforms-3\6524ce82367a53b8e5f240fe815cd882\transformed\exoplayer-core-2.18.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.2] C:\Users\Microsoft\.gradle\caches\transforms-3\7dd84e68d3d9c8b29816c7e95c01c371\transformed\exoplayer-common-2.18.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.2] C:\Users\Microsoft\.gradle\caches\transforms-3\7dd84e68d3d9c8b29816c7e95c01c371\transformed\exoplayer-common-2.18.2\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:6:22-76
 application
-ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:5:5-46:19
+ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:8:5-53:19
 MERGED from [com.google.android.material:material:1.7.0] C:\Users\Microsoft\.gradle\caches\transforms-3\11918c9aa544653f8c45c32ea9ac02b8\transformed\material-1.7.0\AndroidManifest.xml:24:5-20
 MERGED from [com.google.android.material:material:1.7.0] C:\Users\Microsoft\.gradle\caches\transforms-3\11918c9aa544653f8c45c32ea9ac02b8\transformed\material-1.7.0\AndroidManifest.xml:24:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Microsoft\.gradle\caches\transforms-3\9827ec6617366e82ed5e7c7a909d86e6\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
@@ -83,61 +108,63 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Microsoft\.gradle\
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.8.0] C:\Users\Microsoft\.gradle\caches\transforms-3\6a19de105318aab1da00cfa3c60fb56e\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:12:9-35
+		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:15:9-35
 	android:label
-		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:10:9-41
+		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:13:9-41
 	android:fullBackupContent
-		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:8:9-54
-	android:roundIcon
 		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:11:9-54
+	android:roundIcon
+		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:14:9-54
 	tools:targetApi
-		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:14:9-29
+		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:17:9-29
 	android:icon
-		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:9:9-43
+		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:12:9-43
 	android:allowBackup
-		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:9:9-35
 	android:theme
-		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:13:9-50
+		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:16:9-50
 	android:dataExtractionRules
-		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:7:9-65
+		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:10:9-65
+	android:usesCleartextTraffic
+		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:18:9-44
 activity#com.example.crowdbandung.CctvPage
-ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:15:9-21:20
+ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:19:9-32:20
 	android:exported
-		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:17:13-36
+		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:21:13-36
 	android:name
-		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:16:13-37
-meta-data#android.app.lib_name
-ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:18:13-20:36
-	android:value
-		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:20:17-33
-	android:name
-		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:19:17-52
-activity#com.example.crowdbandung.MainActivity
-ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:22:9-29:20
-	android:exported
-		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:24:13-36
-	android:name
-		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:23:13-41
-activity#com.example.crowdbandung.SplashScreen
-ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:30:9-45:20
-	android:launchMode
-		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:32:13-48
-	android:exported
-		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:34:13-36
-	android:theme
-		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:33:13-54
-	android:name
-		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:31:13-41
+		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:20:13-37
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:36:13-40:29
+ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:23:13-27:29
 action#android.intent.action.MAIN
-ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:37:17-69
+ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:24:17-69
 	android:name
-		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:37:25-66
+		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:24:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:39:17-77
+ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:26:17-77
 	android:name
-		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:39:27-74
+		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:26:27-74
+meta-data#android.app.lib_name
+ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:29:13-31:36
+	android:value
+		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:31:17-33
+	android:name
+		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:30:17-52
+activity#com.example.crowdbandung.MainActivity
+ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:33:9-40:20
+	android:exported
+		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:35:13-36
+	android:name
+		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:34:13-41
+activity#com.example.crowdbandung.SplashScreen
+ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:41:9-52:20
+	android:launchMode
+		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:43:13-48
+	android:exported
+		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:45:13-36
+	android:theme
+		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:44:13-54
+	android:name
+		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:42:13-41
 uses-sdk
 INJECTED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml
@@ -170,10 +197,10 @@ MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\M
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\Microsoft\.gradle\caches\transforms-3\f1c05abca8b731045f6324e39a2dc706\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.core:core-ktx:1.8.0] C:\Users\Microsoft\.gradle\caches\transforms-3\9f2d8786483f16acab3469f1ecada2e8\transformed\core-ktx-1.8.0\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.core:core-ktx:1.8.0] C:\Users\Microsoft\.gradle\caches\transforms-3\9f2d8786483f16acab3469f1ecada2e8\transformed\core-ktx-1.8.0\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\Microsoft\.gradle\caches\transforms-3\b15ec2f6b89054d43119a75e8de6207e\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\Microsoft\.gradle\caches\transforms-3\b15ec2f6b89054d43119a75e8de6207e\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Microsoft\.gradle\caches\transforms-3\ecb62397fcd2d0e31dd8cc20a358496e\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Microsoft\.gradle\caches\transforms-3\ecb62397fcd2d0e31dd8cc20a358496e\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer:2.18.2] C:\Users\Microsoft\.gradle\caches\transforms-3\d47e8a4309026997b332dac8335a7bed\transformed\exoplayer-2.18.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.18.2] C:\Users\Microsoft\.gradle\caches\transforms-3\d47e8a4309026997b332dac8335a7bed\transformed\exoplayer-2.18.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.18.2] C:\Users\Microsoft\.gradle\caches\transforms-3\d2a89e4594f56312fd51dc9e0b5f9d60\transformed\exoplayer-ui-2.18.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.18.2] C:\Users\Microsoft\.gradle\caches\transforms-3\d2a89e4594f56312fd51dc9e0b5f9d60\transformed\exoplayer-ui-2.18.2\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Microsoft\.gradle\caches\transforms-3\0b622ae0009252fd9de3ea6d232488c7\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
 MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Microsoft\.gradle\caches\transforms-3\0b622ae0009252fd9de3ea6d232488c7\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
 MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Microsoft\.gradle\caches\transforms-3\848773e611bbde5d3ec0ec3e63d01c98\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
@@ -188,6 +215,20 @@ MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Mic
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Microsoft\.gradle\caches\transforms-3\3a69fdc313f531835a0943e457c4cc93\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Microsoft\.gradle\caches\transforms-3\912f437e477b893e1bc649d739324a83\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Microsoft\.gradle\caches\transforms-3\912f437e477b893e1bc649d739324a83\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.18.2] C:\Users\Microsoft\.gradle\caches\transforms-3\abd8152d42406bd5383101007d27eb82\transformed\exoplayer-dash-2.18.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.18.2] C:\Users\Microsoft\.gradle\caches\transforms-3\abd8152d42406bd5383101007d27eb82\transformed\exoplayer-dash-2.18.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.18.2] C:\Users\Microsoft\.gradle\caches\transforms-3\4d534b825a5993ef4354ab5ef05472e9\transformed\exoplayer-hls-2.18.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.18.2] C:\Users\Microsoft\.gradle\caches\transforms-3\4d534b825a5993ef4354ab5ef05472e9\transformed\exoplayer-hls-2.18.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-rtsp:2.18.2] C:\Users\Microsoft\.gradle\caches\transforms-3\5c7184c4d2beed82e8766c07791c9021\transformed\exoplayer-rtsp-2.18.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-rtsp:2.18.2] C:\Users\Microsoft\.gradle\caches\transforms-3\5c7184c4d2beed82e8766c07791c9021\transformed\exoplayer-rtsp-2.18.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.18.2] C:\Users\Microsoft\.gradle\caches\transforms-3\96e2d134ca6f358f536a4661f2f1a110\transformed\exoplayer-smoothstreaming-2.18.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.18.2] C:\Users\Microsoft\.gradle\caches\transforms-3\96e2d134ca6f358f536a4661f2f1a110\transformed\exoplayer-smoothstreaming-2.18.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.2] C:\Users\Microsoft\.gradle\caches\transforms-3\6524ce82367a53b8e5f240fe815cd882\transformed\exoplayer-core-2.18.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.2] C:\Users\Microsoft\.gradle\caches\transforms-3\6524ce82367a53b8e5f240fe815cd882\transformed\exoplayer-core-2.18.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\Microsoft\.gradle\caches\transforms-3\b15ec2f6b89054d43119a75e8de6207e\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\Microsoft\.gradle\caches\transforms-3\b15ec2f6b89054d43119a75e8de6207e\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.6.0] C:\Users\Microsoft\.gradle\caches\transforms-3\d836cf1b8b4d5403946ff60697c223bd\transformed\media-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.6.0] C:\Users\Microsoft\.gradle\caches\transforms-3\d836cf1b8b4d5403946ff60697c223bd\transformed\media-1.6.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Microsoft\.gradle\caches\transforms-3\595d6f5ec2a32b18a0a929af79e9c217\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Microsoft\.gradle\caches\transforms-3\595d6f5ec2a32b18a0a929af79e9c217\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.customview:customview:1.1.0] C:\Users\Microsoft\.gradle\caches\transforms-3\f99e13ac6b091b958c0a77e57b12da22\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
@@ -202,6 +243,18 @@ MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\Microsoft\.gra
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\Microsoft\.gradle\caches\transforms-3\b1625850bd12ed5a169353107cc1dd79\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\Microsoft\.gradle\caches\transforms-3\02d9a1c992ba142a6f1c7f5d7ffca310\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\Microsoft\.gradle\caches\transforms-3\02d9a1c992ba142a6f1c7f5d7ffca310\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Microsoft\.gradle\caches\transforms-3\ecb62397fcd2d0e31dd8cc20a358496e\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Microsoft\.gradle\caches\transforms-3\ecb62397fcd2d0e31dd8cc20a358496e\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.18.2] C:\Users\Microsoft\.gradle\caches\transforms-3\7f72c5a5970f10085297670ed076ad37\transformed\exoplayer-datasource-2.18.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.18.2] C:\Users\Microsoft\.gradle\caches\transforms-3\7f72c5a5970f10085297670ed076ad37\transformed\exoplayer-datasource-2.18.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.18.2] C:\Users\Microsoft\.gradle\caches\transforms-3\8a4ff3407b25a23fce13b8032f606c20\transformed\exoplayer-database-2.18.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.18.2] C:\Users\Microsoft\.gradle\caches\transforms-3\8a4ff3407b25a23fce13b8032f606c20\transformed\exoplayer-database-2.18.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.18.2] C:\Users\Microsoft\.gradle\caches\transforms-3\6e7c1018cb082cc0108976293b4e31de\transformed\exoplayer-extractor-2.18.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.18.2] C:\Users\Microsoft\.gradle\caches\transforms-3\6e7c1018cb082cc0108976293b4e31de\transformed\exoplayer-extractor-2.18.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.18.2] C:\Users\Microsoft\.gradle\caches\transforms-3\ba7c5f9938d806361cda7c24c958920e\transformed\exoplayer-decoder-2.18.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.18.2] C:\Users\Microsoft\.gradle\caches\transforms-3\ba7c5f9938d806361cda7c24c958920e\transformed\exoplayer-decoder-2.18.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.2] C:\Users\Microsoft\.gradle\caches\transforms-3\7dd84e68d3d9c8b29816c7e95c01c371\transformed\exoplayer-common-2.18.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.2] C:\Users\Microsoft\.gradle\caches\transforms-3\7dd84e68d3d9c8b29816c7e95c01c371\transformed\exoplayer-common-2.18.2\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Microsoft\.gradle\caches\transforms-3\ced32f29a036624fcee3c102df5f076d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Microsoft\.gradle\caches\transforms-3\ced32f29a036624fcee3c102df5f076d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Microsoft\.gradle\caches\transforms-3\baef32cd3c953915a0114f73cc9cca3f\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
