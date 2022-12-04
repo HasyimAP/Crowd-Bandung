@@ -16,108 +16,111 @@
 12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 12-->D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:6:5-95
 12-->D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:6:22-76
-13
-14    <application
-14-->D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:8:5-53:19
-15        android:allowBackup="true"
-15-->D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:9:9-35
-16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-16-->[androidx.core:core:1.8.0] C:\Users\Microsoft\.gradle\caches\transforms-3\6a19de105318aab1da00cfa3c60fb56e\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
-17        android:dataExtractionRules="@xml/data_extraction_rules"
-17-->D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:10:9-65
-18        android:debuggable="true"
-19        android:extractNativeLibs="false"
-20        android:fullBackupContent="@xml/backup_rules"
-20-->D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:11:9-54
-21        android:icon="@mipmap/ic_launcher"
-21-->D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:12:9-43
-22        android:label="@string/app_name"
-22-->D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:13:9-41
-23        android:roundIcon="@mipmap/ic_launcher_round"
-23-->D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:14:9-54
-24        android:supportsRtl="true"
-24-->D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:15:9-35
-25        android:testOnly="true"
-26        android:theme="@style/Theme.CrowdBandung"
-26-->D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:16:9-50
-27        android:usesCleartextTraffic="true" >
-27-->D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:18:9-44
-28        <activity
-28-->D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:19:9-32:20
-29            android:name="com.example.crowdbandung.CctvPage"
-29-->D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:20:13-37
-30            android:exported="true" >
-30-->D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:21:13-36
-31            <intent-filter>
-31-->D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:23:13-27:29
-32                <action android:name="android.intent.action.MAIN" />
-32-->D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:24:17-69
-32-->D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:24:25-66
-33
-34                <category android:name="android.intent.category.LAUNCHER" />
-34-->D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:26:17-77
-34-->D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:26:27-74
-35            </intent-filter>
-36
-37            <meta-data
-37-->D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:29:13-31:36
-38                android:name="android.app.lib_name"
-38-->D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:30:17-52
-39                android:value="" />
-39-->D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:31:17-33
-40        </activity>
-41        <activity
-41-->D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:33:9-40:20
-42            android:name="com.example.crowdbandung.MainActivity"
-42-->D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:34:13-41
-43            android:exported="true" >
-43-->D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:35:13-36
-44            <meta-data
-44-->D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:29:13-31:36
-45                android:name="android.app.lib_name"
-45-->D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:30:17-52
-46                android:value="" />
-46-->D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:31:17-33
-47        </activity>
-48        <activity
-48-->D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:41:9-52:20
-49            android:name="com.example.crowdbandung.SplashScreen"
-49-->D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:42:13-41
-50            android:exported="true"
-50-->D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:45:13-36
-51            android:launchMode="singleInstance"
-51-->D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:43:13-48
-52            android:theme="@style/Theme.CrowdBandung" >
-52-->D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:44:13-54
-53            <meta-data
-53-->D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:29:13-31:36
-54                android:name="android.app.lib_name"
-54-->D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:30:17-52
-55                android:value="" />
-55-->D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:31:17-33
-56        </activity>
-57
-58        <provider
-58-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Microsoft\.gradle\caches\transforms-3\848773e611bbde5d3ec0ec3e63d01c98\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
-59            android:name="androidx.startup.InitializationProvider"
-59-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Microsoft\.gradle\caches\transforms-3\848773e611bbde5d3ec0ec3e63d01c98\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
-60            android:authorities="com.example.crowdbandung.androidx-startup"
-60-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Microsoft\.gradle\caches\transforms-3\848773e611bbde5d3ec0ec3e63d01c98\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
-61            android:exported="false" >
-61-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Microsoft\.gradle\caches\transforms-3\848773e611bbde5d3ec0ec3e63d01c98\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
-62            <meta-data
-62-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Microsoft\.gradle\caches\transforms-3\848773e611bbde5d3ec0ec3e63d01c98\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
-63                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-63-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Microsoft\.gradle\caches\transforms-3\848773e611bbde5d3ec0ec3e63d01c98\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
-64                android:value="androidx.startup" />
-64-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Microsoft\.gradle\caches\transforms-3\848773e611bbde5d3ec0ec3e63d01c98\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
-65            <meta-data
-65-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Microsoft\.gradle\caches\transforms-3\a4f0fb44e9b56370f8c2ed23c9d5d030\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
-66                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-66-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Microsoft\.gradle\caches\transforms-3\a4f0fb44e9b56370f8c2ed23c9d5d030\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
-67                android:value="androidx.startup" />
-67-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Microsoft\.gradle\caches\transforms-3\a4f0fb44e9b56370f8c2ed23c9d5d030\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
-68        </provider>
-69    </application>
-70
-71</manifest>
+13    <uses-permission android:name="android.permission.WAKE_LOCK" />
+13-->D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:7:5-84
+13-->D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:7:22-65
+14
+15    <application
+15-->D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:9:5-54:19
+16        android:allowBackup="true"
+16-->D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:10:9-35
+17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+17-->[androidx.core:core:1.8.0] C:\Users\Microsoft\.gradle\caches\transforms-3\6a19de105318aab1da00cfa3c60fb56e\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+18        android:dataExtractionRules="@xml/data_extraction_rules"
+18-->D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:11:9-65
+19        android:debuggable="true"
+20        android:extractNativeLibs="false"
+21        android:fullBackupContent="@xml/backup_rules"
+21-->D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:12:9-54
+22        android:icon="@mipmap/ic_launcher"
+22-->D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:13:9-43
+23        android:label="@string/app_name"
+23-->D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:14:9-41
+24        android:roundIcon="@mipmap/ic_launcher_round"
+24-->D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:15:9-54
+25        android:supportsRtl="true"
+25-->D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:16:9-35
+26        android:testOnly="true"
+27        android:theme="@style/Theme.CrowdBandung"
+27-->D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:17:9-50
+28        android:usesCleartextTraffic="true" >
+28-->D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:19:9-44
+29        <activity
+29-->D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:20:9-33:20
+30            android:name="com.example.crowdbandung.CctvPage"
+30-->D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:21:13-37
+31            android:exported="true" >
+31-->D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:22:13-36
+32            <intent-filter>
+32-->D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:24:13-28:29
+33                <action android:name="android.intent.action.MAIN" />
+33-->D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:25:17-69
+33-->D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:25:25-66
+34
+35                <category android:name="android.intent.category.LAUNCHER" />
+35-->D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:27:17-77
+35-->D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:27:27-74
+36            </intent-filter>
+37
+38            <meta-data
+38-->D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:30:13-32:36
+39                android:name="android.app.lib_name"
+39-->D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:31:17-52
+40                android:value="" />
+40-->D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:32:17-33
+41        </activity>
+42        <activity
+42-->D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:34:9-41:20
+43            android:name="com.example.crowdbandung.MainActivity"
+43-->D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:35:13-41
+44            android:exported="true" >
+44-->D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:36:13-36
+45            <meta-data
+45-->D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:30:13-32:36
+46                android:name="android.app.lib_name"
+46-->D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:31:17-52
+47                android:value="" />
+47-->D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:32:17-33
+48        </activity>
+49        <activity
+49-->D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:42:9-53:20
+50            android:name="com.example.crowdbandung.SplashScreen"
+50-->D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:43:13-41
+51            android:exported="true"
+51-->D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:46:13-36
+52            android:launchMode="singleInstance"
+52-->D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:44:13-48
+53            android:theme="@style/Theme.CrowdBandung" >
+53-->D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:45:13-54
+54            <meta-data
+54-->D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:30:13-32:36
+55                android:name="android.app.lib_name"
+55-->D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:31:17-52
+56                android:value="" />
+56-->D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:32:17-33
+57        </activity>
+58
+59        <provider
+59-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Microsoft\.gradle\caches\transforms-3\848773e611bbde5d3ec0ec3e63d01c98\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+60            android:name="androidx.startup.InitializationProvider"
+60-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Microsoft\.gradle\caches\transforms-3\848773e611bbde5d3ec0ec3e63d01c98\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+61            android:authorities="com.example.crowdbandung.androidx-startup"
+61-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Microsoft\.gradle\caches\transforms-3\848773e611bbde5d3ec0ec3e63d01c98\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+62            android:exported="false" >
+62-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Microsoft\.gradle\caches\transforms-3\848773e611bbde5d3ec0ec3e63d01c98\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+63            <meta-data
+63-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Microsoft\.gradle\caches\transforms-3\848773e611bbde5d3ec0ec3e63d01c98\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+64                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+64-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Microsoft\.gradle\caches\transforms-3\848773e611bbde5d3ec0ec3e63d01c98\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+65                android:value="androidx.startup" />
+65-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Microsoft\.gradle\caches\transforms-3\848773e611bbde5d3ec0ec3e63d01c98\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+66            <meta-data
+66-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Microsoft\.gradle\caches\transforms-3\a4f0fb44e9b56370f8c2ed23c9d5d030\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+67                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+67-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Microsoft\.gradle\caches\transforms-3\a4f0fb44e9b56370f8c2ed23c9d5d030\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+68                android:value="androidx.startup" />
+68-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Microsoft\.gradle\caches\transforms-3\a4f0fb44e9b56370f8c2ed23c9d5d030\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+69        </provider>
+70    </application>
+71
+72</manifest>

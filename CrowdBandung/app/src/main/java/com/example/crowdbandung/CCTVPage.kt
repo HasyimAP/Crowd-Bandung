@@ -7,25 +7,22 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.WindowManager
 import android.widget.ImageButton
-import android.widget.VideoView
+import android.widget.Toast
 import androidx.constraintlayout.widget.ConstraintLayout
-import com.example.crowdbandung.databinding.ActivityCctvPageBinding
 import com.google.android.exoplayer2.ExoPlayer
 import com.google.android.exoplayer2.MediaItem
+import com.google.android.exoplayer2.PlaybackException
 import com.google.android.exoplayer2.Player
 import com.google.android.exoplayer2.source.MediaSource
-import com.google.android.exoplayer2.source.dash.DashMediaSource
 import com.google.android.exoplayer2.source.hls.HlsMediaSource
-import com.google.android.exoplayer2.ui.PlayerControlView
+import com.google.android.exoplayer2.ui.StyledPlayerView
 import com.google.android.exoplayer2.upstream.DataSource
 import com.google.android.exoplayer2.upstream.DefaultDataSource
-import com.google.android.exoplayer2.upstream.DefaultHttpDataSource
-import com.google.android.exoplayer2.util.Util
 
 class CctvPage : AppCompatActivity() {
 
     private lateinit var root: ConstraintLayout
-    private lateinit var exoPlayerView: PlayerControlView
+    private lateinit var videoView: StyledPlayerView
 
     private lateinit var exoPlayer: ExoPlayer
     private lateinit var mediaSource: MediaSource
@@ -52,13 +49,15 @@ class CctvPage : AppCompatActivity() {
 
     private fun findView() {
         root = findViewById(R.id.root)
-        exoPlayerView = findViewById(R.id.videoView)
+        videoView = findViewById(R.id.videoView)
     }
 
     private fun initPlayer() {
         exoPlayer = ExoPlayer.Builder(this).build()
+        exoPlayer.addListener(playerListener)
+//        exoPlayer.volume = 0f
 
-        exoPlayerView.player = exoPlayer
+        videoView.player = exoPlayer
 
         createMediaSource()
 
@@ -68,7 +67,7 @@ class CctvPage : AppCompatActivity() {
 
     private fun createMediaSource() {
         urlType = URLType.HLS
-        urlType.url = "https://bharadwajpro.github.io/m3u8-player/player/#https://pelindung.bandung.go.id:3443/video/DPKP3/tamanmusikempat.m3u8"
+        urlType.url = "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8"
 
         exoPlayer.seekTo(0)
 
@@ -79,13 +78,52 @@ class CctvPage : AppCompatActivity() {
         )
     }
 
+    override fun onResume() {
+        super.onResume()
+
+        exoPlayer.playWhenReady = true
+        exoPlayer.play()
+    }
+
+    override fun onPause() {
+        super.onPause()
+
+        exoPlayer.pause()
+        exoPlayer.playWhenReady = false
+    }
+
+    override fun onStop() {
+        super.onStop()
+
+        exoPlayer.pause()
+        exoPlayer.playWhenReady = false
+    }
+
     override fun onDestroy() {
         super.onDestroy()
 
+        exoPlayer.removeListener(playerListener)
+        exoPlayer.stop()
+        exoPlayer.clearMediaItems()
+
         window.clearFlags(WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON)
+    }
+
+    private var playerListener = object : Player.Listener {
+        override fun onRenderedFirstFrame() {
+            super.onRenderedFirstFrame()
+
+            videoView.useController = false
+        }
+
+        override fun onPlayerError(error: PlaybackException) {
+            super.onPlayerError(error)
+
+            Toast.makeText(this@CctvPage, "${error.message}", Toast.LENGTH_SHORT).show()
+        }
     }
 }
 
 enum class URLType(var url: String) {
-    HLS(""), MP4("")
+    HLS("")
 }
