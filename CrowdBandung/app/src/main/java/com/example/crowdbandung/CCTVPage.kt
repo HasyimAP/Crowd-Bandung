@@ -13,11 +13,16 @@ import com.google.android.exoplayer2.ExoPlayer
 import com.google.android.exoplayer2.MediaItem
 import com.google.android.exoplayer2.PlaybackException
 import com.google.android.exoplayer2.Player
+import com.google.android.exoplayer2.source.ConcatenatingMediaSource
 import com.google.android.exoplayer2.source.MediaSource
+import com.google.android.exoplayer2.source.MergingMediaSource
+import com.google.android.exoplayer2.source.ProgressiveMediaSource
+import com.google.android.exoplayer2.source.SilenceMediaSource
 import com.google.android.exoplayer2.source.hls.HlsMediaSource
 import com.google.android.exoplayer2.ui.StyledPlayerView
 import com.google.android.exoplayer2.upstream.DataSource
 import com.google.android.exoplayer2.upstream.DefaultDataSource
+import kotlin.math.pow
 
 class CctvPage : AppCompatActivity() {
 
@@ -26,6 +31,10 @@ class CctvPage : AppCompatActivity() {
 
     private lateinit var exoPlayer: ExoPlayer
     private lateinit var mediaSource: MediaSource
+    private lateinit var mediaItem: MediaItem
+    private lateinit var silenceMediaSource: SilenceMediaSource
+    private lateinit var mergingMediaSource: MergingMediaSource
+    private lateinit var concatenatingMediaSource: ConcatenatingMediaSource
 
     private lateinit var urlType: URLType
 
@@ -55,19 +64,23 @@ class CctvPage : AppCompatActivity() {
     private fun initPlayer() {
         exoPlayer = ExoPlayer.Builder(this).build()
         exoPlayer.addListener(playerListener)
-//        exoPlayer.volume = 0f
 
         videoView.player = exoPlayer
 
         createMediaSource()
 
         exoPlayer.setMediaSource(mediaSource)
+//        exoPlayer.setMediaItem(mediaItem)
+//        exoPlayer.addMediaSource(mergingMediaSource)
+//        exoPlayer.addMediaSource(silenceMediaSource)
         exoPlayer.prepare()
     }
 
     private fun createMediaSource() {
         urlType = URLType.HLS
-        urlType.url = "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8"
+//        urlType.url = "https://pelindung.bandung.go.id:3443/video/DPKP3/tamanmusikempat.m3u8"
+//        urlType.url = "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8"
+        urlType.url = "http://45.118.114.26/camera/Gedebage.m3u8"
 
         exoPlayer.seekTo(0)
 
@@ -76,6 +89,14 @@ class CctvPage : AppCompatActivity() {
         mediaSource = HlsMediaSource.Factory(dataSourceFactory).createMediaSource(
             MediaItem.fromUri(Uri.parse(urlType.url))
         )
+
+//        mediaItem = MediaItem.fromUri(urlType.url)
+
+        silenceMediaSource = SilenceMediaSource(12*(10.0.pow(7)).toLong())
+
+        mergingMediaSource = MergingMediaSource(mediaSource, silenceMediaSource)
+
+        concatenatingMediaSource = ConcatenatingMediaSource(mediaSource, silenceMediaSource)
     }
 
     override fun onResume() {
@@ -113,7 +134,7 @@ class CctvPage : AppCompatActivity() {
         override fun onRenderedFirstFrame() {
             super.onRenderedFirstFrame()
 
-            videoView.useController = false
+            videoView.useController = true
         }
 
         override fun onPlayerError(error: PlaybackException) {
