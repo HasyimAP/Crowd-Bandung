@@ -80,7 +80,9 @@ class CctvPage : AppCompatActivity() {
         urlType = URLType.HLS
 //        urlType.url = "https://pelindung.bandung.go.id:3443/video/DPKP3/tamanmusikempat.m3u8"
 //        urlType.url = "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8"
-        urlType.url = "http://45.118.114.26/camera/Gedebage.m3u8"
+//        urlType.url = "http://45.118.114.26/camera/GedebageTimur.m3u8"
+//        urlType.url = "http://103.17.183.107:8080/a3bfe9d130f7a8830cb78d8b1885de6d/hls/dishub/ChVTuxTE9X/s.m3u8"
+        urlType.url = "http://atcs-dishub.bandung.go.id/camera/Buahbatu.m3u8"
 
         exoPlayer.seekTo(0)
 

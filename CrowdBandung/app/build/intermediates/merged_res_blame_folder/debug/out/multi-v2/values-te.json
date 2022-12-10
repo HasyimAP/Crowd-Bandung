@@ -4,6 +4,23 @@
             "outputFile": "com.example.crowdbandung.app-mergeDebugResources-30:/values-te/values-te.xml",
             "map": [
                 {
+                    "source": "C:\\Users\\Microsoft\\.gradle\\caches\\transforms-3\\9baae2a0a064870b9506522ab355f7bf\\transformed\\core-1.9.0\\res\\values-te\\values-te.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "159",
+                        "startColumns": "4",
+                        "startOffsets": "12384",
+                        "endColumns": "100",
+                        "endOffsets": "12480"
+                    }
+                },
+                {
                     "source": "C:\\Users\\Microsoft\\.gradle\\caches\\transforms-3\\11918c9aa544653f8c45c32ea9ac02b8\\transformed\\material-1.7.0\\res\\values-te\\values-te.xml",
                     "from": {
                         "startLines": "2,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62",
@@ -20,23 +37,6 @@
                         "endLines": "22,50,51,52,53,54,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125,126,127,128,129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157",
                         "endColumns": "12,85,103,115,88,65,93,66,61,92,67,62,73,64,53,120,56,61,53,78,127,87,91,144,79,81,87,57,51,65,74,77,89,72,75,80,68,104,76,90,92,73,76,91,54,65,83,85,62,64,63,109,111,98,118,63,55,82",
                         "endOffsets": "961,3801,3905,4021,4110,4176,8221,8288,8350,8443,8511,8574,8648,8713,8767,8888,8945,9007,9061,9140,9268,9356,9448,9593,9673,9755,9843,9901,9953,10019,10094,10172,10262,10335,10411,10492,10561,10666,10743,10834,10927,11001,11078,11170,11225,11291,11375,11461,11524,11589,11653,11763,11875,11974,12093,12157,12213,12296"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Microsoft\\.gradle\\caches\\transforms-3\\6a19de105318aab1da00cfa3c60fb56e\\transformed\\core-1.8.0\\res\\values-te\\values-te.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "159",
-                        "startColumns": "4",
-                        "startOffsets": "12384",
-                        "endColumns": "100",
-                        "endOffsets": "12480"
                     }
                 },
                 {

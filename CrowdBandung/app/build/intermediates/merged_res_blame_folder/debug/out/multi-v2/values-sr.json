@@ -4,23 +4,6 @@
             "outputFile": "com.example.crowdbandung.app-mergeDebugResources-30:/values-sr/values-sr.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Microsoft\\.gradle\\caches\\transforms-3\\6a19de105318aab1da00cfa3c60fb56e\\transformed\\core-1.8.0\\res\\values-sr\\values-sr.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "162",
-                        "startColumns": "4",
-                        "startOffsets": "12228",
-                        "endColumns": "100",
-                        "endOffsets": "12324"
-                    }
-                },
-                {
                     "source": "C:\\Users\\Microsoft\\.gradle\\caches\\transforms-3\\d2a89e4594f56312fd51dc9e0b5f9d60\\transformed\\exoplayer-ui-2.18.2\\res\\values-sr\\values-sr.xml",
                     "from": {
                         "startLines": "2,11,16,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62",
@@ -90,6 +73,23 @@
                         "startOffsets": "1133,1240,1341,1447,1533,1637,1759,1843,1924,2015,2108,2203,2297,2397,2490,2585,2690,2781,2872,2958,3063,3169,3272,3378,3487,3594,3764,12141",
                         "endColumns": "106,100,105,85,103,121,83,80,90,92,94,93,99,92,94,104,90,90,85,104,105,102,105,108,106,169,96,86",
                         "endOffsets": "1235,1336,1442,1528,1632,1754,1838,1919,2010,2103,2198,2292,2392,2485,2580,2685,2776,2867,2953,3058,3164,3267,3373,3482,3589,3759,3856,12223"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Microsoft\\.gradle\\caches\\transforms-3\\9baae2a0a064870b9506522ab355f7bf\\transformed\\core-1.9.0\\res\\values-sr\\values-sr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "162",
+                        "startColumns": "4",
+                        "startOffsets": "12228",
+                        "endColumns": "100",
+                        "endOffsets": "12324"
                     }
                 }
             ]

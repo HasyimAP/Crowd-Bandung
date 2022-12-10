@@ -23,23 +23,6 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Microsoft\\.gradle\\caches\\transforms-3\\6a19de105318aab1da00cfa3c60fb56e\\transformed\\core-1.8.0\\res\\values-am\\values-am.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "159",
-                        "startColumns": "4",
-                        "startOffsets": "11319",
-                        "endColumns": "100",
-                        "endOffsets": "11415"
-                    }
-                },
-                {
                     "source": "C:\\Users\\Microsoft\\.gradle\\caches\\transforms-3\\6524ce82367a53b8e5f240fe815cd882\\transformed\\exoplayer-core-2.18.2\\res\\values-am\\values-am.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
@@ -90,6 +73,23 @@
                         "endLines": "10,14,18,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105",
                         "endColumns": "17,12,12,79,80,75,84,80,65,61,83,82,66,62,60,65,99,101,100,68,75,67,65,78,79,61,64,52,56,45,60,57,74,58,61,58,56,63,62,63,49,55,69,69,51",
                         "endOffsets": "373,572,754,4020,4101,4177,4262,4343,4409,4471,4555,4638,4705,4768,4829,4895,4995,5097,5198,5267,5343,5411,5477,5556,5636,5698,5763,6429,6486,6532,6593,6651,6726,6785,6847,6906,6963,7027,7090,7154,7204,7260,7330,7400,7452"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Microsoft\\.gradle\\caches\\transforms-3\\9baae2a0a064870b9506522ab355f7bf\\transformed\\core-1.9.0\\res\\values-am\\values-am.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "159",
+                        "startColumns": "4",
+                        "startOffsets": "11319",
+                        "endColumns": "100",
+                        "endOffsets": "11415"
                     }
                 }
             ]
