@@ -4,6 +4,10 @@
         "source": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-main-34:\\mipmap-mdpi\\ic_launcher.png"
     },
     {
+        "merged": "com.example.crowdbandung.app-merged_res-32:/layout_activity_cctv_page.xml.flat",
+        "source": "com.example.crowdbandung.app-main-34:/layout/activity_cctv_page.xml"
+    },
+    {
         "merged": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-merged_res-32:\\mipmap-hdpi_ic_launcher_round.png.flat",
         "source": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-main-34:\\mipmap-hdpi\\ic_launcher_round.png"
     },
@@ -32,10 +36,6 @@
         "source": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-main-34:\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "com.example.crowdbandung.app-merged_res-32:/layout_single_view.xml.flat",
-        "source": "com.example.crowdbandung.app-main-34:/layout/single_view.xml"
-    },
-    {
         "merged": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-merged_res-32:\\layout_single_view.xml.flat",
         "source": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-main-34:\\layout\\single_view.xml"
     },
@@ -62,6 +62,10 @@
     {
         "merged": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-merged_res-32:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
         "source": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-main-34:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-merged_res-32:\\drawable_search_bg.xml.flat",
+        "source": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-main-34:\\drawable\\search_bg.xml"
     },
     {
         "merged": "C:\\Users\\Microsoft\\.gradle\\daemon\\7.4\\com.example.crowdbandung.app-merged_res-32:\\xml_backup_rules.xml.flat",

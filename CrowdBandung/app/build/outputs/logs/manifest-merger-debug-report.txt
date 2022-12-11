@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:2:1-56:12
-INJECTED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:2:1-56:12
-INJECTED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:2:1-56:12
-INJECTED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:2:1-56:12
+ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:2:1-54:12
 MERGED from [androidx.databinding:viewbinding:7.3.0] C:\Users\Microsoft\.gradle\caches\transforms-3\c4cb892f171ca1d410550e46c7385279\transformed\viewbinding-7.3.0\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.material:material:1.7.0] C:\Users\Microsoft\.gradle\caches\transforms-3\11918c9aa544653f8c45c32ea9ac02b8\transformed\material-1.7.0\AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Microsoft\.gradle\caches\transforms-3\9827ec6617366e82ed5e7c7a909d86e6\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
@@ -58,22 +58,22 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Microsoft\.gradl
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Microsoft\.gradle\caches\transforms-3\3ac119fa795bc1ef3ecdd8c6ea4af554\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\Microsoft\.gradle\caches\transforms-3\5b9f05308f02d2aab4c4e2d31764b8b7\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Microsoft\.gradle\caches\transforms-3\92ea4c83570acad78d5bdafbde5f30d9\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
-INJECTED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:2:1-56:12
-INJECTED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:2:1-56:12
-INJECTED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:2:1-54:12
 	package
 		INJECTED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml
-		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:2:1-56:12
+		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:2:1-54:12
 		INJECTED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml
-		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:2:1-56:12
+		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:2:1-54:12
 		INJECTED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml
 	xmlns:tools
 		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml
-		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:2:1-56:12
+		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:2:1-54:12
 		INJECTED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:2:11-69
@@ -94,7 +94,7 @@ ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xm
 	android:name
 		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:7:22-65
 application
-ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:9:5-54:19
+ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:9:5-52:19
 MERGED from [com.google.android.material:material:1.7.0] C:\Users\Microsoft\.gradle\caches\transforms-3\11918c9aa544653f8c45c32ea9ac02b8\transformed\material-1.7.0\AndroidManifest.xml:24:5-20
 MERGED from [com.google.android.material:material:1.7.0] C:\Users\Microsoft\.gradle\caches\transforms-3\11918c9aa544653f8c45c32ea9ac02b8\transformed\material-1.7.0\AndroidManifest.xml:24:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Microsoft\.gradle\caches\transforms-3\9827ec6617366e82ed5e7c7a909d86e6\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
@@ -114,7 +114,7 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Microsoft\.gradle\
 	android:supportsRtl
 		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:16:9-35
 	android:label
-		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:14:9-41
+		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:14:9-38
 	android:fullBackupContent
 		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:12:9-54
 	android:roundIcon
@@ -132,43 +132,43 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Microsoft\.gradle\
 	android:usesCleartextTraffic
 		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:19:9-44
 activity#com.example.crowdbandung.CctvPage
-ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:20:9-33:20
+ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:20:9-27:20
 	android:exported
 		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:22:13-36
 	android:name
 		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:21:13-37
-intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:24:13-28:29
-action#android.intent.action.MAIN
-ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:25:17-69
-	android:name
-		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:25:25-66
-category#android.intent.category.LAUNCHER
-ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:27:17-77
-	android:name
-		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:27:27-74
 meta-data#android.app.lib_name
-ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:30:13-32:36
+ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:24:13-26:36
 	android:value
-		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:32:17-33
+		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:26:17-33
 	android:name
-		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:31:17-52
+		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:25:17-52
 activity#com.example.crowdbandung.MainActivity
-ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:34:9-41:20
+ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:28:9-35:20
 	android:exported
-		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:36:13-36
+		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:30:13-36
 	android:name
-		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:35:13-41
+		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:29:13-41
 activity#com.example.crowdbandung.SplashScreen
-ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:42:9-53:20
+ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:36:9-51:20
 	android:launchMode
-		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:44:13-48
+		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:38:13-48
 	android:exported
-		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:46:13-36
+		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:40:13-36
 	android:theme
-		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:45:13-54
+		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:39:13-54
 	android:name
-		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:43:13-41
+		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:37:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:42:13-46:29
+action#android.intent.action.MAIN
+ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:43:17-69
+	android:name
+		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:43:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:45:17-77
+	android:name
+		ADDED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml:45:27-74
 uses-sdk
 INJECTED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\Kuliah\Matkul\Mobapps\CrowdBandung\app\src\main\AndroidManifest.xml

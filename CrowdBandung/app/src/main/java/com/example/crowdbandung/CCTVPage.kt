@@ -7,7 +7,9 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.WindowManager
 import android.widget.ImageButton
+import android.widget.TextView
 import android.widget.Toast
+import androidx.activity.OnBackPressedCallback
 import androidx.constraintlayout.widget.ConstraintLayout
 import com.google.android.exoplayer2.ExoPlayer
 import com.google.android.exoplayer2.MediaItem
@@ -53,7 +55,19 @@ class CctvPage : AppCompatActivity() {
         buttonClick.setOnClickListener {
             val intent = Intent(this, MainActivity::class.java)
             startActivity(intent)
+            finish()
         }
+
+        val title : TextView = findViewById(R.id.title)
+        title.text = intent.getStringExtra("title")
+
+        onBackPressedDispatcher.addCallback(this,
+            object : OnBackPressedCallback(true){
+                override fun handleOnBackPressed() {
+                    startActivity(Intent(this@CctvPage, MainActivity::class.java))
+                    finish()
+                }
+            })
     }
 
     private fun findView() {
@@ -70,9 +84,6 @@ class CctvPage : AppCompatActivity() {
         createMediaSource()
 
         exoPlayer.setMediaSource(mediaSource)
-//        exoPlayer.setMediaItem(mediaItem)
-//        exoPlayer.addMediaSource(mergingMediaSource)
-//        exoPlayer.addMediaSource(silenceMediaSource)
         exoPlayer.prepare()
     }
 
@@ -82,7 +93,8 @@ class CctvPage : AppCompatActivity() {
 //        urlType.url = "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8"
 //        urlType.url = "http://45.118.114.26/camera/GedebageTimur.m3u8"
 //        urlType.url = "http://103.17.183.107:8080/a3bfe9d130f7a8830cb78d8b1885de6d/hls/dishub/ChVTuxTE9X/s.m3u8"
-        urlType.url = "http://atcs-dishub.bandung.go.id/camera/Buahbatu.m3u8"
+//        urlType.url = "http://atcs-dishub.bandung.go.id/camera/Buahbatu.m3u8"
+        urlType.url = intent.getStringExtra("link").toString()
 
         exoPlayer.seekTo(0)
 

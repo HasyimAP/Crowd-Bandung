@@ -6,10 +6,18 @@ import android.view.ViewGroup
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 
-class Adapter(private val dataList : ArrayList<CctvLinkItem>) : RecyclerView.Adapter<Adapter.ViewHolder>() {
+class Adapter(private var dataList : ArrayList<CctvLinkItem>)
+    : RecyclerView.Adapter<Adapter.ViewHolder>() {
+
+    var onItemClick : ((CctvLinkItem) -> Unit)?= null
 
     class ViewHolder(val view: View) : RecyclerView.ViewHolder(view) {
         val cctvTitle : TextView = view.findViewById(R.id.link_title)
+    }
+
+    fun setFilteredList(dataList: ArrayList<CctvLinkItem>) {
+        this.dataList = dataList
+        notifyDataSetChanged()
     }
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int) = ViewHolder (
@@ -20,8 +28,13 @@ class Adapter(private val dataList : ArrayList<CctvLinkItem>) : RecyclerView.Ada
         val data = dataList[position]
 
         holder.cctvTitle.text = data.title
+
+        holder.cctvTitle.setOnClickListener {
+            onItemClick?.invoke(data)
+        }
     }
 
     override fun getItemCount(): Int = dataList.size
+
 
 }
