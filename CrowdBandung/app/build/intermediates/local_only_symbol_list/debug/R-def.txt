@@ -19,6 +19,7 @@ id backButton
 id homeheader
 id imageView
 id imageView3
+id linearLayout
 id link_icon
 id link_title
 id root

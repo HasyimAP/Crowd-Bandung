@@ -41,7 +41,7 @@ class MainActivity : AppCompatActivity() {
             intent.putExtra("link", it.arguments[0])
             intent.putExtra("title", it.title)
             startActivity(intent)
-            finish()
+//            finish()
         }
 
         newRecyclerView = findViewById(R.id.CctvList)

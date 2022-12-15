@@ -30,11 +30,12 @@
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/CctvList"
-        android:layout_width="409dp"
-        android:layout_height="637dp"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
         android:layout_marginTop="5dp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/search_bar"
+        app:layout_constraintBottom_toBottomOf="parent"
         tools:listitem="@layout/single_view"/>
 
 
