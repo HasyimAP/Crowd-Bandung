@@ -10,6 +10,7 @@ import android.widget.ImageButton
 import android.widget.TextView
 import android.widget.Toast
 import androidx.activity.OnBackPressedCallback
+import androidx.activity.OnBackPressedDispatcher
 import androidx.constraintlayout.widget.ConstraintLayout
 import com.google.android.exoplayer2.ExoPlayer
 import com.google.android.exoplayer2.MediaItem
@@ -18,7 +19,6 @@ import com.google.android.exoplayer2.Player
 import com.google.android.exoplayer2.source.ConcatenatingMediaSource
 import com.google.android.exoplayer2.source.MediaSource
 import com.google.android.exoplayer2.source.MergingMediaSource
-import com.google.android.exoplayer2.source.ProgressiveMediaSource
 import com.google.android.exoplayer2.source.SilenceMediaSource
 import com.google.android.exoplayer2.source.hls.HlsMediaSource
 import com.google.android.exoplayer2.ui.StyledPlayerView
@@ -33,7 +33,6 @@ class CctvPage : AppCompatActivity() {
 
     private lateinit var exoPlayer: ExoPlayer
     private lateinit var mediaSource: MediaSource
-    private lateinit var mediaItem: MediaItem
     private lateinit var silenceMediaSource: SilenceMediaSource
     private lateinit var mergingMediaSource: MergingMediaSource
     private lateinit var concatenatingMediaSource: ConcatenatingMediaSource
@@ -51,23 +50,21 @@ class CctvPage : AppCompatActivity() {
 
         supportActionBar?.hide()
 
-        val buttonClick = findViewById<ImageButton>(R.id.backButton)
-        buttonClick.setOnClickListener {
-            val intent = Intent(this, MainActivity::class.java)
-            startActivity(intent)
-            finish()
-        }
-
         val title : TextView = findViewById(R.id.title)
         title.text = intent.getStringExtra("title")
 
-        onBackPressedDispatcher.addCallback(this,
-            object : OnBackPressedCallback(true){
-                override fun handleOnBackPressed() {
-                    startActivity(Intent(this@CctvPage, MainActivity::class.java))
-                    finish()
-                }
-            })
+        val buttonClick = findViewById<ImageButton>(R.id.backButton)
+        buttonClick.setOnClickListener {
+            finish()
+        }
+//
+//        onBackPressedDispatcher.addCallback(this,
+//            object : OnBackPressedCallback(true){
+//                override fun handleOnBackPressed() {
+//                    startActivity(Intent(this@CctvPage, MainActivity::class.java))
+//                    finish()
+//                }
+//            })
     }
 
     private fun findView() {

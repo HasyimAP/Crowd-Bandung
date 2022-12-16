@@ -3,7 +3,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/root"
-    android:layout_width="411dp"
+    android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#B3333138"
     tools:context=".CctvPage">
@@ -31,13 +31,6 @@
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/arrow_1" />
 
-    <!--    <VideoView-->
-    <!--        android:id="@+id/videoView"-->
-    <!--        android:layout_width="wrap_content"-->
-    <!--        android:layout_height="641dp"-->
-    <!--        app:layout_constraintStart_toStartOf="parent"-->
-    <!--        app:layout_constraintTop_toBottomOf="@+id/imageView3" />-->
-
     <com.google.android.exoplayer2.ui.StyledPlayerView
         android:id="@+id/videoView"
         android:layout_width="match_parent"
@@ -45,7 +38,6 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintDimensionRatio="16:9"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView3">
 
@@ -61,10 +53,8 @@
         android:textColor="@color/white"
         android:textSize="20dp"
         android:textStyle="bold"
-        android:layout_marginHorizontal="20dp"
         app:layout_constraintBottom_toTopOf="@id/videoView"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
