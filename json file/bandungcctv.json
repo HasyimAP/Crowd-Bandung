@@ -1,0 +1,744 @@
+[
+  {
+    "title":"SP SOEKARNO HATTA - GEDEBAGE PTZ",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/Gedebage.m3u8"
+    ]
+  },
+ {
+    "title":"SP SOEKARNO HATTA - GEDEBAGE ARAH TIMUR",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/GedebageTimur.m3u8"
+    ]
+  },
+ {
+    "title":"SP SOEKARNO HATTA - GEDEBAGE ARAH SELATAN",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/GedebageSel.m3u8"
+    ]
+  },
+ {
+    "title":"SP SOEKARNO HATTA - GEDEBAGE ARAH UTARA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/GedebageUtara.m3u8"
+    ]
+  },
+ {
+    "title":"SP SOEKARNO HATTA - IBRAHIM ADJIE",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/Samsat.m3u8"
+    ]
+  },
+ 
+ {
+    "title":"SP SOEKARNO HATTA - BUAHBATU",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/Buahbatu.m3u8"
+    ]
+  },
+ {
+    "title":"SP SOEKARNO HATTA - BATUNUNGGAL",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/Batununggal.m3u8"
+    ]
+  },
+  {
+    "title":"SP SOEKARNO HATTA - MOCH. TOHA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/MochToha.m3u8"
+    ]
+  },
+ {
+    "title":"SP SOEKARNO HATTA - INHOPTENG",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/Inhoptank.m3u8"
+    ]
+  },
+ {
+    "title":"SP SOEKARNO HATTA - CIBADUYUT",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/Cibaduyut.m3u8"
+    ]
+  },
+ 
+ {
+    "title":"SP SOEKARNO HATTA - KOPO",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/Kopo.m3u8"
+    ]
+  },
+{
+    "title":"SP SOEKARNO HATTA - PASAR CARINGIN",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/PasarCaringin.m3u8"
+    ]
+  },
+{
+    "title":"SP SOEKARNO HATTA - PASIR KOJA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/PasirKoja.m3u8"
+    ]
+  },
+   {
+    "title":"SP SOEKARNO HATTA - CIBEUREUM",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/Cibeureum.m3u8"
+    ]
+  },
+ {
+    "title":"SP SUDIRMAN - JAMIKA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/Jamika.m3u8"
+    ]
+  }, 
+
+ {
+    "title":"SP SUDIRMAN - GARDUJATI",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/Gardujati.m3u8"
+    ]
+  },
+ {
+    "title":"SP SUDIRMAN - OTISTA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/Otista.m3u8"
+    ]
+  },
+ {
+    "title":"SP ASIA AFRIKA - TAMBLONG",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/Tamblong.m3u8"
+    ]
+  },
+ {
+    "title":"SP ASIA AFRIKA - SP LIMA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/SimpangLima.m3u8"
+    ]
+  },
+ {
+    "title":"SP A YANI - GUDANG UTARA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/GudangUtara.m3u8"
+    ]
+  },
+ {
+    "title":"SP A YANI - LASWI",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/Laswi.m3u8"
+    ]
+  },
+ {
+    "title":"SP A YANI - SUPRATMAN",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/Supratman.m3u8"
+    ]
+  },
+ {
+    "title":"SP DJUNJUNAN - TOL PASTEUR",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/TolPasteur.m3u8"
+    ]
+  },
+ {
+    "title":"SP PASIR KALIKI - TJOKROAMINOTO PasirKalikiIP Arah Variable",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/PasirKalikiIP.m3u8"
+    ]
+  },
+ {
+    "title":"SP PASIR KALIKI - TJOKROAMINOTO PasirKalikiAng Arah Variable",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/PasirKalikiAng.m3u8"
+    ]
+  },
+ {
+    "title":"SP PASIR KALIKI - TJOKROAMINOTO Paskal Timur",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/paskaltim.m3u8"
+    ]
+  },
+ {
+    "title":"SP PASIR KALIKI - TJOKROAMINOTO Paskal Utara",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/PaskalUtara.m3u8"
+    ]
+  },
+ {
+    "title":"SP PASIR KALIKI - TJOKROAMINOTO Paskal Barat",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/PaskalBar.m3u8"
+    ]
+  },
+ {
+    "title":"SP PASIR KALIKI - TJOKROAMINOTO Paskal Selatan",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/PaskalSel.m3u8"
+    ]
+  },
+ {
+    "title":"SP PASTEUR - CIPAGANTI 01 SP. Cipaganti Arah Variable",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/Cipaganti.m3u8"
+    ]
+  },
+{
+    "title":"SP PASTEUR - CIPAGANTI 02 SP. Cipaganti Arah Variable",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/Cipaganti2.m3u8"
+    ]
+  },
+
+ {
+    "title":"SP PASTEUR - CIHAMPELAS Arah Barat",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/CihampelasBarat.m3u8"
+    ]
+  },
+{
+    "title":"SP PASTEUR - CIHAMPELAS Arah Utara",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/CihampelasUtara.m3u8"
+    ]
+  },
+{
+    "title":"SP PASTEUR - CIHAMPELAS Arah Timur",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/CihampelasTimur.m3u8"
+    ]
+  },
+{
+    "title":"SP PASTEUR - CIHAMPELAS Arah Variable",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/CihampelasPTZ.m3u8"
+    ]
+  },
+ {
+    "title":"SP PASTEUR - TAMANSARI",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/Tamansari.m3u8"
+    ]
+  },
+ {
+    "title":"SP DAGO - CIKAPAYANG Arah Variable",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/Cikapayang1.m3u8"
+    ]
+  },
+{
+    "title":"SP DAGO - CIKAPAYANG Arah Selatan",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/CikapayangSelatan.m3u8"
+    ]
+  },
+{
+    "title":"SP DAGO - CIKAPAYANG Arah Utara",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/CikapayangUtara.m3u8"
+    ]
+  },
+
+ {
+    "title":"SP DAGO - SULANJANA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/Sulanjana.m3u8"
+    ]
+  },
+ {
+    "title":"SP MERDEKA - JUANDA Merdeka Aceh Arah Variable",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/MerdekaAceh.m3u8"
+    ]
+  },
+ {
+    "title":"SP MERDEKA - JUANDA Merdeka Juanda Arah Variable",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/MerdekaJuanda.m3u8"
+    ]
+  },
+  {
+    "title":"SP DIPONEGORO - CILAMAYA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/Cimalaya.m3u8"
+    ]
+  },
+ {
+    "title":"SP SURAPATI - SENTOT ALIBASYAH (TELKOM)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/Telkom.m3u8"
+    ]
+  },
+{
+    "title":"SP PHH MUSTOFA - PAHLAWAN",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/Pahlawan.m3u8"
+    ]
+  },
+ {
+    "title":"SP RIAU - TRUNOJOYO",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/Trunojoyo.m3u8"
+    ]
+  },
+ {
+    "title":"SP RIAU - BANDA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/Banda.m3u8"
+    ]
+  },
+ {
+    "title":"SP RIAU - LOMBOK",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/Lombok.m3u8"
+    ]
+  },
+ {
+    "title":"SP RIAU - CIHAPIT",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/Cihapit.m3u8"
+    ]
+  },
+ {
+    "title":"SP RIAU - ACEH",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/Aceh.m3u8"
+    ]
+  },
+ {
+    "title":"SP RIAU - ANGGREK",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/Anggrek.m3u8"
+    ]
+  },
+
+ {
+    "title":"SP PHH MUSTOFA - CIKUTRA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/Cikutra.m3u8"
+    ]
+  },
+ {
+    "title":"SP PHH MUSTOFA - CIMUNCANG",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/Cimuncang.m3u8"
+    ]
+  },
+ {
+    "title":"SP PHH MUSTOFA - PADASUKA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/Padasuka.m3u8"
+    ]
+  },
+ {
+    "title":"SP CICAHEUM",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/Cicaheum.m3u8"
+    ]
+  },
+{
+   "title":"SP Ujung Berung - Jl Rumah Sakit",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/UjungBerung.m3u8"
+    ]
+  },
+{
+   "title":"RUAS RIAU - TRUNOJOYO (LIMIJATI)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/Ruasriaulimijati.m3u8"
+    ]
+  },
+{
+   "title":"RUAS RIAU - BANDA (TARUNA BHAKTI)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/Ruasriautarbak.m3u8"
+    ]
+  },
+{
+   "title":"RUAS RIAU - BANDA (BRI)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/Ruasriaubri.m3u8"
+    ]
+  },
+{
+   "title":"RUAS RIAU - LOMBOK (PENGADILAN)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/Ruasriaupengadilan.m3u8"
+    ]
+  },
+{
+   "title":"RUAS RIAU - TM. PRAMUKA (BJB)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/Ruasriaubjb.m3u8"
+    ]
+  },
+{
+   "title":"RUAS RIAU - ANGGREK (DISPARBUD)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/Ruasriaudisparbud.m3u8"
+    ]
+  },
+{
+   "title":"RUAS SUDIRMAN - OTISTA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/Ruasotista.m3u8"
+    ]
+  },
+{
+   "title":"RUAS SUDIRMAN - GARDUJATI",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/Gardujati.m3u8"
+    ]
+  },
+{
+   "title":"SP LINGKAR - TALAGA BODAS",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/TalagaBodas.m3u8"
+    ]
+  },
+{
+   "title":"SP LINGKAR - MARTANEGARA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/Martanegara.m3u8"
+    ]
+  },
+{
+   "title":"SP LINGKAR - BUAH BATU",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/BuahBatuLingkar.m3u8"
+    ]
+  },
+{
+   "title":"SP LINGKAR - SRIWIJAYA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/Sriwijaya.m3u8"
+    ]
+  },
+{
+   "title":"SP LINGKAR - M RAMDAN SP. MRamdan Arah Variable",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/MRamdan.m3u8"
+    ]
+  },
+{
+   "title":"SP LINGKAR - M RAMDAN Ramdhan Barat",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/RamdanBarat.m3u8"
+    ]
+  },
+{
+   "title":"SP BKR - M TOHA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/PtInti.m3u8"
+    ]
+  },
+{
+   "title":"SP BKR - OTISTA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/OtistaLingkar.m3u8"
+    ]
+  },
+{
+   "title":"SP TJOKROAMINOTO - PAJAJARAN (ISTANA PLAZA)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/IstanaPlaza.m3u8"
+    ]
+  },
+{
+   "title":"SP TJOKROAMINOTO - PAJAJARAN (ISTANA PLAZA) tim",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/laswiut.m3u8"
+    ]
+  },
+{
+   "title":"SP CIHAMPELAS - CIUMBULEUIT ARAH UTARA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/CihampelasUtara.m3u8"
+    ]
+  },
+{
+   "title":"SP CIHAMPELAS - CIUMBULEUIT ARAH UTARA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/CihampelasUtara.m3u8"
+    ]
+  },
+{
+   "title":"SP CIHAMPELAS - CIUMBULEUIT ARAH TIMUR",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/CihampelasTimur.m3u8"
+    ]
+  },
+{
+   "title":"SP DJUANDA - DIPATIUKUR",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/DjuandaBarat.m3u8"
+    ]
+  },
+{
+   "title":"SP ABDURAHMAN SALEH - PAJAJARAN",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/PajajaranBarat.m3u8"
+    ]
+  },
+{
+    "title":"RUAS ISTIQOMAH - BANDA (FIXED - DEPAN BRI)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/Ruasistiqomahbanda.m3u8"
+    ]
+  },
+{
+    "title":"RUAS ISTIQOMAH - CIHAPIT (FIXED - SEBERANG PENGADILAN NEGERI)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/Ruasistiqomahcihapit.m3u8"
+    ]
+  },
+{
+    "title":"RUAS TAMAN PRAMUKA - CIHAPIT (FIXED - DEPAN GOURMET)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/Ruaspramukacihapit.m3u8"
+    ]
+  },
+{
+    "title":"RUAS CIHAPIT TAMAN PRAMUKA (FIXED - SEBERANG BJB/LIA)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/Ruascihapitpramuka.m3u8"
+    ]
+  },
+{
+    "title":"RUAS ANGGREK (FIXED - DEPAN DISPARBUD)",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/Ruasanggrek.m3u8"
+    ]
+  },
+{
+    "title":"RUAS SUDIRMAN - OTISTA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/Ruasotista.m3u8"
+    ]
+  },
+{
+    "title":"SP LINGKAR - TALAGA BODAS",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/TalagaBodas.m3u8"
+    ]
+  },
+{
+    "title":"SP LINGKAR - MARTANEGARA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/Martanegara.m3u8"
+    ]
+  },
+{
+    "title":"SP LINGKAR - BUAH BATU",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/BuahBatuLingkar.m3u8"
+    ]
+  },
+{
+    "title":"SP LINGKAR - SRIWIJAYA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/Sriwijaya.m3u8"
+    ]
+  },
+{
+    "title":"SP LINGKAR - M RAMDAN",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/MRamdan.m3u8"
+    ]
+  },
+{
+    "title":"SP BKR - M TOHA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/PtInti.m3u8"
+    ]
+  },
+{
+    "title":"SP BKR - OTISTA",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://45.118.114.26/camera/OtistaLingkar.m3u8"
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[ 
+  {
+    "title":"Simpang Kopo",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.17.183.107:8080/a3bfe9d130f7a8830cb78d8b1885de6d/hls/dishub/ChVTuxTE9X/s.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Soroja",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.17.183.107:8080/43be8e94ef990277cfafbbb4355cffb9/hls/dishub/d1PhwYMRX7/s.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Pemda",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.17.183.107:8080/2b7439dad22736f7cb0a5d8ebf1dab82/hls/dishub/rlFyhHJGZe/s.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Gading Tutuka",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.17.183.107:8080/cb181a47c3027dedf3a2866013fe7655/hls/dishub/lcOqDHoOTn/s.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Katapang",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.17.183.115:8080/effd719b74170158ef194692fa689ed6/hls/dishub/jLB1AKYQah/s.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Desa Soreang",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://10.87.0.124:8080/super/93df53ca89a1637127d4552190d3d4f0/hls/dishub/s73B97vwP8/s.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Rancamanyar",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.17.183.107:8080/cb181a47c3027dedf3a2866013fe7655/hls/dishub/JI64fMPFFL/s.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Laswi Ciparay",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.17.183.107:8080/cb181a47c3027dedf3a2866013fe7655/hls/dishub/6jLt6cTTDt/s.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Laswi - BNI Majalaya",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://103.17.183.107:8080/cb181a47c3027dedf3a2866013fe7655/hls/dishub/kDV7uC5BwO/s.m3u8"
+    ]
+  }
+]

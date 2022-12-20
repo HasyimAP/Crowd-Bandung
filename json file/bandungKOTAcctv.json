@@ -1,0 +1,408 @@
+[
+{
+    "title":"Simpang Aceh",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://atcs-dishub.bandung.go.id/camera/Aceh.m3u8"
+    ]
+  },
+
+{
+    "title":"Simpang Anggrek",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://atcs-dishub.bandung.go.id/camera/Anggrek.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Banda",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://atcs-dishub.bandung.go.id/camera/Banda.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Batununggal",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://atcs-dishub.bandung.go.id/camera/Batununggal.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Buah Batu",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://atcs-dishub.bandung.go.id/camera/Buahbatu.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Cicaheum",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://atcs-dishub.bandung.go.id/camera/Cicaheum.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Cihampelas Barat",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://atcs-dishub.bandung.go.id/camera/CihampelasBarat.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Cihampelas PTZ",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://atcs-dishub.bandung.go.id/camera/CihampelasPTZ.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Cihampelas Timur",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://atcs-dishub.bandung.go.id/camera/CihampelasTimur.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Cihampelas Utara",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://atcs-dishub.bandung.go.id/camera/CihampelasUtara.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Cihapit",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://atcs-dishub.bandung.go.id/camera/Cihapit.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Cikapayang 1",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://atcs-dishub.bandung.go.id/camera/Cikapayang1.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Cikapayang Selatan",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://atcs-dishub.bandung.go.id/camera/CikapayangSelatan.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Cikapayang Utara",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://atcs-dishub.bandung.go.id/camera/CikapayangUtara.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Cimuncang",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://atcs-dishub.bandung.go.id/camera/Cimuncang.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Cipaganti",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://atcs-dishub.bandung.go.id/camera/Cipaganti.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Cipaganti 2 ",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://atcs-dishub.bandung.go.id/camera/Cipaganti2.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Gardujati",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://atcs-dishub.bandung.go.id/camera/Gardujati.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Gudang Utara",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://atcs-dishub.bandung.go.id/camera/GudangUtara.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Jamika",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://atcs-dishub.bandung.go.id/camera/Jamika.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Kopo",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://atcs-dishub.bandung.go.id/camera/Kopo.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Kopo Peta",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://atcs-dishub.bandung.go.id/camera/KopoPeta.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Laswi",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://atcs-dishub.bandung.go.id/camera/Laswi.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Lombok",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://atcs-dishub.bandung.go.id/camera/Lombok.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Merdeka Aceh",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://atcs-dishub.bandung.go.id/camera/MerdekaAceh.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Merdeka Juanda",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://atcs-dishub.bandung.go.id/camera/MerdekaJuanda.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Moch Toha",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://atcs-dishub.bandung.go.id/camera/MochToha.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Otista",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://atcs-dishub.bandung.go.id/camera/Otista.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Padasuka",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://atcs-dishub.bandung.go.id/camera/Padasuka.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Pahlawan",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://atcs-dishub.bandung.go.id/camera/Pahlawan.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Pasar Caringin",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://atcs-dishub.bandung.go.id/camera/PasarCaringin.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Pasir Kaliki",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://atcs-dishub.bandung.go.id/camera/PasirKalikiIP.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Pasir Koja",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://atcs-dishub.bandung.go.id/camera/PasirKoja.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Ruas Anggrek",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://atcs-dishub.bandung.go.id/camera/Ruasanggrek.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Ruas Banda Istiqomah",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://atcs-dishub.bandung.go.id/camera/Ruasbandaistiqomah.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Ruas Istiqomah Banda",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://atcs-dishub.bandung.go.id/camera/Ruasistiqomahbanda.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Ruas Istiqomah Cihapit",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://atcs-dishub.bandung.go.id/camera/Ruasistiqomahcihapit.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Ruas Otista",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://atcs-dishub.bandung.go.id/camera/Ruasotista.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Pramuka Cihapit",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://atcs-dishub.bandung.go.id/camera/Ruaspramukacihapit.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Ruas Trunojoyo",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://atcs-dishub.bandung.go.id/camera/Ruastrunojoyo.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Samsat",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://atcs-dishub.bandung.go.id/camera/Samsat.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Lima",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://atcs-dishub.bandung.go.id/camera/SimpangLima.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Sulanjana",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://atcs-dishub.bandung.go.id/camera/Sulanjana.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Supratman",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://atcs-dishub.bandung.go.id/camera/Supratman.m3u8"
+    ]
+  },
+{
+    "title":"Simpang Tamansari",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://atcs-dishub.bandung.go.id/camera/Tamansari.m3u8"
+    ]
+  },
+
+{
+    "title":"Simpang Tamblong",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://atcs-dishub.bandung.go.id/camera/Tamblong.m3u8"
+    ]
+  },
+
+{
+    "title":"Simpang Telkom",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://atcs-dishub.bandung.go.id/camera/Telkom.m3u8"
+    ]
+  },
+
+{
+    "title":"Simpang Tol Pasteur",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://atcs-dishub.bandung.go.id/camera/TolPasteur.m3u8"
+    ]
+  },
+
+{
+    "title":"Simpang ALun-Alun Pelajar",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://atcs-dishub.bandung.go.id/camera/alunpelajar.m3u8"
+    ]
+  },
+
+{
+    "title":"Simpang Laswi Sukabumi",
+    "provider":"stream",
+    "image":"http://cariloka.com/atcscctvindon/ic_atcscctvindon.png",
+    "arguments":[
+      "http://atcs-dishub.bandung.go.id/camera/laswisukabumi.m3u8"
+    ]
+  }
+]
